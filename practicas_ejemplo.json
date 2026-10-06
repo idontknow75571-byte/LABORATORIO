@@ -1,0 +1,46 @@
+{
+  "practicas": [
+    {
+      "id": "P01",
+      "nombre": "Preparación de materiales",
+      "modulo": "Microbiología II",
+      "laboratorio": "Microbiología",
+      "docente": "Me. Eva Orizano Ponce",
+      "equipos": "Autoclave, cocina eléctrica, balanza de precisión 1",
+      "materiales": "15 Placas, 20 tubos de ensayo, matraz de 50mL",
+      "reactivos": "PDA, PCA",
+      "observaciones": "",
+      "materiales_mantenimiento": "Paños, Alcohol isopropílico 70%, Agua destilada, Detergente neutro, Papel tisú"
+    },
+    {
+      "id": "P02",
+      "nombre": "Siembra en medios de cultivo",
+      "modulo": "Microbiología",
+      "laboratorio": "Microbiología",
+      "docente": "Amparo Factor Lopez",
+      "equipos": "Incubadora, Cámara de flujo laminar 1",
+      "materiales": "Placas de Petri, Asas de siembra, Pipetas Pasteur, Tubos de ensayo",
+      "reactivos": "Agar nutritivo, Agar sangre, Caldo BHI",
+      "observaciones": "Trabajar en condiciones de esterilidad",
+      "materiales_mantenimiento": "Paños, Alcohol isopropílico 70%, Agua destilada, Detergente neutro"
+    },
+    {
+      "id": "P03",
+      "nombre": "Tinción de Gram",
+      "modulo": "Microbiología",
+      "laboratorio": "Microbiología",
+      "docente": "Amparo Factor Lopez",
+      "equipos": "Microscopio 1(AMSCOPE)",
+      "materiales": "Portaobjetos, Cubreobjetos, Asas de siembra, Pipetas",
+      "reactivos": "Cristal violeta, Lugol, Alcohol-acetona, Safranina, Aceite de inmersión",
+      "observaciones": "",
+      "materiales_mantenimiento": "Paños, Alcohol isopropílico 70%, Agua destilada, Papel de lente"
+    }
+  ],
+  "defaults": {
+    "facultad": "Ciencias Agrarias",
+    "escuela": "Ingeniería Agroindustrial",
+    "tecnico": "Amparo Factor Lopez",
+    "docente_responsable": "Me. Eva Orizano Ponce"
+  }
+}
